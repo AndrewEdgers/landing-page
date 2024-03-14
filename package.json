@@ -36,10 +36,10 @@
     "last 2 versions"
   ],
   "mateAcademy": {
-    "projectType": "layout",
-    "linters": {
-      "bem": false
-    }
+    "projectType": "layout"
   },
-  "dependencies": {}
+  "dependencies": {
+    "browser-sync": "^3.0.2",
+    "gulp": "^4.0.2"
+  }
 }
