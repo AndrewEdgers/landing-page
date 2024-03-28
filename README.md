@@ -31,9 +31,8 @@ To run this project locally, follow these steps:
 1. Clone the repository using `git clone <repository_url>`.
 2. Navigate to the project directory.
 3. Run `npm install` to install dependencies.
-4. Run `npm start` to start the development server?
-5. Run `gulp` to start the development server?
-6. Open your browser and go to `http://localhost:3000/` or `http://localhost:8080/`.
+4. Run `npm start` to start the development server
+5. Open your browser and go to `http://localhost:8080/`.
 
 ## Additional Information
 
